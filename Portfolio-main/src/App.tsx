@@ -158,13 +158,7 @@ const Navigation = () => {
             ))}
           </div>
 
-          <a
-            href="#contact"
-            className="hidden md:flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-blue-500/20 to-purple-500/20 border border-blue-500/30 text-sm font-medium hover:border-blue-500/50 transition-all"
-          >
-            <Send size={14} />
-            Let's Connect
-          </a>
+          
         </div>
       </div>
     </nav>
@@ -876,7 +870,7 @@ const ContactSection = () => {
             Get In Touch
           </h2>
           <h3 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            Let's Connect
+            Contact me
           </h3>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-500 mx-auto rounded-full" />
           <p className="text-gray-400 mt-6 max-w-xl mx-auto">
